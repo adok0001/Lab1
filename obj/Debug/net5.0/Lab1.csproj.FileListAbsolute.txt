@@ -1,0 +1,16 @@
+C:\Users\layea\source\repos\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\layea\source\repos\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\layea\source\repos\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\layea\source\repos\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\layea\source\repos\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\layea\source\repos\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\layea\source\repos\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\layea\source\repos\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\layea\source\repos\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\layea\source\repos\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\layea\source\repos\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\layea\source\repos\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\layea\source\repos\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\layea\source\repos\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\layea\source\repos\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\layea\source\repos\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
