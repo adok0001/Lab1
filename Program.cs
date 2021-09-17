@@ -90,10 +90,19 @@ namespace Lab1
          */
         static List<string> readFromFile(List<string> content)
         {
-            content = File.ReadAllLines(@"\Users\layea\source\repos\Lab1\Words.txt").ToList();
-            Console.WriteLine("Reading words complete");
-            Console.WriteLine("Number of words found: {0}", content.Count);
-            return content;
+             static List<string> readFromFile(List<string> content)
+        {
+            try
+            {
+                content = File.ReadAllLines("../../../Words.txt").ToList();
+                Console.WriteLine("Reading words complete");
+                Console.WriteLine("Number of words found: {0}", content.Count);
+            } catch (FileNotFoundException fe)
+            {
+                Console.WriteLine("Please check file path and try again");
+            }
+                return content;
+        }
         }
 
         /**
